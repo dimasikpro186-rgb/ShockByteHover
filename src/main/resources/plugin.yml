@@ -1,0 +1,4 @@
+name: ShockByteHover
+version: 1.0
+main: me.shockbyte.hover.HoverPlugin
+api-version: '1.21'
